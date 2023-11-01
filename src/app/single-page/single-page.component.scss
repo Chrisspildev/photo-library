@@ -1,0 +1,25 @@
+.image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    margin-top: 20px;
+}
+
+.images {
+    max-width: 60vw;
+    max-height: 80vh;
+}
+
+.btn {
+    padding: 5px 25px;
+    align-self: center;
+    background-color: palevioletred;
+}
+
+.btn-parent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}

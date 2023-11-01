@@ -1,0 +1,14 @@
+.images {
+    width: 100%;
+    transition: transform 0.3s;
+    cursor: pointer;
+}
+
+.images-cls {
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.images:hover {
+    transform: scale(1.1);
+}
